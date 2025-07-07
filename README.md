@@ -1,0 +1,2 @@
+# Inverted Pendlum
+A personal feedback control system project aims to maintain a pendulum at  an upward position upon swing up using energy based control. All systems were control by pure equations with minimal tuning, adjusted for real life damping. The system is control by a dc motor with an arduino uno and an I2C motor driver ( Smile Robotics PRIK-KEE-NOO 2-CH R/C + I2C ) as a processor. System feedback were received via 2 encoders, each for measuring cart position and angle of the pendulum. 
